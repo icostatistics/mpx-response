@@ -2,6 +2,6 @@
 *
 # Except this file
 !.gitignore
-!.ad_dummy
 
-#This folder should contain the AD datasets compiled from TD datasets. These are not uploaded to GitHub
+
+#This folder should contain all the raw data
